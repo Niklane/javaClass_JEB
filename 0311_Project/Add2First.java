@@ -8,6 +8,7 @@ public class Add2First {
 		int x;
 		int y;
 		int sum;
+		int a, b, c;
 		
 		System.out.print("첫번째 숫자를 입력하시오: ");
 		x = input.nextInt();
